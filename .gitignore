@@ -1,2 +1,3 @@
-# Ignore the Airbnb dataset file
+# ignore the Airbnb dataset file
 airbnb.csv
+database.sqlite
